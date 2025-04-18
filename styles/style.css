@@ -108,7 +108,6 @@
     line-height: 115%;
     letter-spacing: 0.3em;
     text-transform: uppercase;
-    text-align: center;
     color: #fff;
 }
 
@@ -121,7 +120,6 @@
     letter-spacing: 0.3em;
     text-transform: uppercase;
     text-align: right;
-    color: #fff;
 }
 
 .cover__text .cover__text--no_spacing {
