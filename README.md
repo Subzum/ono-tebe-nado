@@ -1,1 +1,1 @@
-https://github.com/Subzum/ono-tebe-nado
+https://github.com/Subzum/ono-tebe-nado-fd
