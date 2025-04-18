@@ -119,8 +119,7 @@
     line-height: 115%;
     letter-spacing: 0.3em;
     text-transform: uppercase;
-    text-align: right;
-}
+    }
 
 .cover__text .cover__text--no_spacing {
     letter-spacing: 0;
